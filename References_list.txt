@@ -1,0 +1,79 @@
+References Used for the project
+
+
+
+
+* https://github.com/JRC1995/Transformers/blob/master/Data%20Pre-Processing.ipynb
+
+
+* https://www.tensorflow.org/tutorials/text/transformer#evaluate
+
+
+* https://github.com/mathsyouth/awesome-text-summarization
+
+
+* https://medium.com/swlh/abstractive-text-summarization-using-transformers-3e774cc42453
+
+
+* https://stackoverflow.com/questions/63904821/using-transformer-for-text-summarization
+
+
+* https://github.com/vrindav/just-news-it/tree/master/pointer_summarizer
+
+
+* https://towardsdatascience.com/transformers-state-of-the-art-natural-language-processing-1d84c4c7462b
+
+
+* https://towardsdatascience.com/transformers-141e32e69591
+
+
+* https://medium.com/swlh/abstractive-text-summarization-using-transformers-3e774cc42453
+
+
+* https://towardsdatascience.com/transformers-state-of-the-art-natural-language-processing-1d84c4c7462b
+
+
+* https://towardsdatascience.com/transformers-141e32e69591
+
+
+* https://medium.com/swlh/abstractive-text-summarization-using-transformers-3e774cc42453
+
+
+* https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04
+
+
+* https://www.youtube.com/watch?v=bY6m6_IIN94&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-
+
+
+* https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04
+
+
+* https://github.com/IwasakiYuuki/Bert-abstractive-text-summarization/blob/master/transformer/Translator.py
+
+
+* https://github.com/dmmiller612/bert-extractive-summarizer
+
+
+* https://www.tensorflow.org/tutorials/text/transformer
+
+
+* http://jalammar.github.io/illustrated-transformer/
+* https://github.com/thomasschmied/Text_Summarization_with_Tensorflow
+
+
+* https://github.com/rojagtap/abstractive_summarizer/blob/master/summarizer.ipynb
+
+
+* https://github.com/rojagtap/abstractive_summarizer
+
+
+* https://github.com/Moeinh77/Transformer-networks-for-abstractive-summarization/blob/master/main-github.ipynb
+
+
+* https://github.com/santhoshkolloju/Abstractive-Summarization-With-Transfer-Learning/blob/master/BERT_SUMM.ipynb
+
+
+* https://github.com/JRC1995/Transformers/blob/master/Data%20Pre-Processing.ipynb
+
+
+* https://github.com/ingenuo-yag/text-summarization/blob/master/text_summarizer.ipynb
